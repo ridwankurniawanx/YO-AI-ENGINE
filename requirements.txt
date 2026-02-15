@@ -1,0 +1,11 @@
+vllm
+runpod
+python-dotenv
+scipy
+pandas
+numpy
+pyOMA2
+yfinance
+pandas-ta
+beautifulsoup4
+marker-pdf
